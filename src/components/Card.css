@@ -1,0 +1,63 @@
+.card6{
+  background-color:rgb(254, 249, 246) ;
+  border: none;
+}
+.image-back{
+  background-color:rgb(241,242,244);
+  width: 26.8rem;
+  height: 20rem;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+.img-fl{
+   width: 20rem;
+   height: 15rem;
+   margin: 3rem;
+}
+.text{
+  background-color: rgb(241,242,244);
+  width: 15rem;
+  height: 2rem;
+  text-align: center;
+  border-radius: 20px;
+}
+.text2{
+  background-color:rgb(254,233,203);
+  width: 15rem;
+  height: 2rem;
+  text-align: center;
+  border-radius: 20px;
+}
+.text3{
+  background-color: rgb(204,234,253);
+  width: 15rem;
+  height: 2rem;
+  text-align: center;
+  border-radius: 20px;
+}
+.text4{
+  background-color: rgb(221,244,228);
+  width: 20rem;
+  height: 2rem;
+  text-align: center;
+  border-radius: 20px;
+}
+.text5{
+  background-color: rgb(253,222,214);
+  width: 15rem;
+  height: 2rem;
+  text-align: center;
+  border-radius: 20px;
+}
+.text6{
+  background-color:rgb(195,156,246);
+  width: 15rem;
+  height: 2rem;
+  text-align: center;
+  border-radius: 20px;
+}
+.des{
+  color: rgb(136, 138, 139);
+ 
+}
