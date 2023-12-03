@@ -30,7 +30,7 @@ function Home() {
       <Card6/>
       <PrincingOne/>
       {/* <Collabas/> */}
-      <Footer/>
+      {/* <Footer/> */}
     </>
   )
 }
