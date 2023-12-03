@@ -4,7 +4,7 @@ import './Header.css'
 function Header() {
   return (
     <>
-      <Navbar className='Header' expand="lg">
+      <Navbar className='Header  ' expand="lg" >
   <Navbar.Brand href="#home">Milton</Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
   <Navbar.Collapse id="basic-navbar-nav">
@@ -16,11 +16,11 @@ function Header() {
       <Nav.Link href="#link">Blog</Nav.Link>
       
     </Nav>
-    <Form inline>
+    
 
-     <Button  variant="outline-success" className='mr-2' >Login</Button>
-      <Button variant="outline-success">Search</Button>
-    </Form>
+     <div  className='mr-5 login' >Log in</div>
+      <div   className='get'>Get started</div>
+    
     
   </Navbar.Collapse>
   

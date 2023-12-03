@@ -6,9 +6,24 @@
   justify-content: center;
   text-align: center;
 }
+.tex{
+  color: rgb(57,57,58);
+}
+.one-card   .tee{
+  background-color: rgb(221,244,228);
+}
+.one-car .teee{
+  background-color: rgb(204,234,253);
+}
+
 .second h6{
-  background-color: rgb(147, 149, 150);
-  border-radius: 50%;
+  background-color: rgb(229, 230, 231);
+  border-radius: 20px;
+  width: 15rem;
+  height: 2rem;
+  margin-left: 40%;
+  
+  text-align: center;
 }
 .second h1{
  margin-bottom: 10rem;
@@ -42,16 +57,12 @@
   background-color: rgb(37, 34, 34);
   color: white;
   width: 30rem;
-  height: 10rem;
+  height: 5rem;
   border-radius: 30px 0px 30px 0px ;
   margin-left: 5rem;
 }
 .card-buttom h5{
-  padding:20px;
-
-}
-.card-buttom h3{
-  padding:20px;
+  margin-bottom: -10px;
 }
 .img{
   width: 5rem;
@@ -61,8 +72,8 @@
   background-color:rgb(254, 249, 246) ;
   border: none;
 }
-.one-car h6{
-  background-color: rgb(247, 201, 142);
+.one-car .te{
+  background-color:rgb(253,222,214);
   width: 25rem;
   height: 3rem;
   text-align: center;
@@ -70,12 +81,13 @@
   font-size: 2rem;
 }
 .one-car .tittl{
-  font-size: 3rem;
+  
   font-weight: 500;
   margin-bottom: 5rem;
 }
+
 .one-car .pp{
-  font-size: 2rem;
+  
   color: gray;
 }
 .card-butto{

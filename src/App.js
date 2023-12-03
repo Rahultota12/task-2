@@ -1,5 +1,5 @@
 import React from 'react';
-
+import 'cdbreact'
 import Header from './components/Header';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './components/Home';
@@ -9,7 +9,7 @@ function App() {
   return (
     <>
     <BrowserRouter>  
-      
+
         <Header/>
       <Home/>
       </BrowserRouter>

@@ -5,7 +5,14 @@ import Card from 'react-bootstrap/Card';
 function Card6() {
   return (
     <>
+
+    <div className='top'>
+      <h4>And so much more... 💼</h4>
+      <h1>Our features to make your life easier</h1>
+    </div>
 <div className="row container-fluid">
+
+
   <div className="col-lg-4 col-sm-12">
     
 <Card className='card6' >

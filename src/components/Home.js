@@ -7,11 +7,12 @@ import Secon from './Second';
 import PrincingOne from './PricingOne';
 import Collabas from './Collabas';
 import Card6 from './Card6';
+import Footer from './Footer';
 function Home() {
   return (
     <>
     <div className="Home">
-        {/* <h6>An other way to manage time️</h6> */}
+        <h6>An other way to manage time️</h6>
         <Card className='home-card'>
       
       <Card.Body>
@@ -28,7 +29,8 @@ function Home() {
       <Secon/>
       <Card6/>
       <PrincingOne/>
-      <Collabas/>
+      {/* <Collabas/> */}
+      <Footer/>
     </>
   )
 }

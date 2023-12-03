@@ -1,4 +1,37 @@
 .Header{
 background-color: rgb(254,249,246);
-border: 0px 0px 0px 5px solid black;
+border-bottom: solid rgb(221, 220, 220);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-nav {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-nav .nav-link {
+  margin: 0 15px;
+}
+.login{
+  background-color:rgb(241,242,244);
+  width: 13rem;
+  height: 3rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: rgb(27, 26, 26);
+  border-radius: 20px;
+  text-align: center;
+}
+.get{
+  background-color:rgb(10, 10, 10);
+  width: 13rem;
+  height: 3rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: white;
+  border-radius: 20px;
+  text-align: center;
 }
